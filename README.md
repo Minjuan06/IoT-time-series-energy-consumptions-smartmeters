@@ -1,4 +1,3 @@
-# IoT-time-series-energy-consumptions-smartmeters
 # IoT Time Series -- Energy Consumption
 
 This project is related to data analytics in the field of IoT("Internet of Things"). More specifically, this project is to analyse time series in smart energy usage, modeling patterns of energy usage by time of day and day of the year in a typical residence whose electrical system is monitored by multiple sub-meters.
