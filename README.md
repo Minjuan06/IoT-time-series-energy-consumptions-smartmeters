@@ -96,7 +96,7 @@ Seasonal adjustment was conducted to remove the seasonal component of a time ser
 
 **Actual vs. forecast**
 
-<img src="/graphs/Actual_vs_fitted_SM1.png"  width="50%" height="50%">
+<img src="/graphs/actual_vs_fitted_SM1.png"  width="50%" height="50%">
 
 **Fit of linear model**
 
@@ -110,7 +110,7 @@ Seasonal adjustment was conducted to remove the seasonal component of a time ser
 
 **Actual vs. forecast**
 
-<img src="/graphs/Actual_vs_fitted_SM2.png"  width="50%" height="50%">
+<img src="/graphs/actual_vs_fitted_SM2.png"  width="50%" height="50%">
 
 **Fit of linear model**
 
